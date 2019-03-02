@@ -8,3 +8,26 @@ Using:
 + Webpack
 + React
 + Flow
+
+# Setup / Init
+
+1. First update metadata
+
+	    yarn init
+
+2. Then install
+
+	    yarn install
+
+# Use
++ develop
+
+		yarn run dev
+
++ test
+
+		yarn run test
+
++ build
+
+		yarn run build
