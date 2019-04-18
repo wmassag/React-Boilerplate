@@ -1,4 +1,9 @@
 /*
+  Import SCSS global variables
+*/
+@import '../../_globalSCSSVars.scss';
+
+/*
   Replace wrapper selector with component or page ID
 */
 #Layout {
